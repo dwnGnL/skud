@@ -1,0 +1,25 @@
+
+.modals{
+    /* width: 40%; */
+    z-index: 10000;
+    /* margin: 100px auto; */
+}
+
+.range{
+    display: flex;
+    /* float: right; */
+    flex-direction: row;
+    width: 100%;
+    padding: 0 20%;
+    margin: 0 auto;
+}
+
+.skachat a{
+    text-decoration: none;
+    color:white;
+}
+
+.skachat{
+    position: absolute;
+    right: 0;
+}
