@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "rc-datetime-picker": "^1.6.1",
     "react": "^16.9.0",
     "react-burger-menu": "^2.6.11",
